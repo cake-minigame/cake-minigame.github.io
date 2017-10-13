@@ -1,2 +1,2 @@
 # minigame
-https://junhaesung.github.io/minigame
+https://cake-minigame.github.io
